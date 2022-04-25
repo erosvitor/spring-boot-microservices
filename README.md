@@ -1,5 +1,5 @@
 ## About
-The project shows how to build microservice application using Spring Boot.
+Project created in the Spring Boot course.
 
 ## Technologies
 The following technologies were used in this project:
